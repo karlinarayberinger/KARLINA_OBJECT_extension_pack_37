@@ -238,7 +238,7 @@ file_114: karbytes_basement_2-main.zip // 65.78 megabytes
 
 file_115: KARBYTES_JOURNAL_2023_PART_5-main.zip // 24.62 megabytes
 
-file_116: karbytes_basement_n-main.zip // 174.21 megabytes
+file_116: karbytes_basement_n-main.zip // 174.84 megabytes
 
 file_117: KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.68 megabytes
 
@@ -286,6 +286,6 @@ file_137: KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.69 megabytes
 
 Total number of files: 138
 
-Total folder size: 14739.81 megabytes
+Total folder size: 14740.44 megabytes
 
 --------------------------------
