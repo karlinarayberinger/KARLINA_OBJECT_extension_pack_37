@@ -12,7 +12,7 @@ On 25_APRIL_2025 and before 11:59PM Pacific Standard Time, karbytes intends to b
 
 I expect that, from that point in time forward (for an infinitely long period of time), each of the following files of karbytes (in that file's final draft version) will be burned to the aforementioned M_DISCs as of 11:59PM Pacific Standard Time.
 
-(Note that the following list of files is not all of the files in the "micro directory" section of karbytes named raw_github_files_directory_KARLINA_OBJECT_extension_pack_37 (and its uniquely corresponding GitHub repository). The list of files on this web page includes only files which are not authorized by karbytes to be modified and which are not authorized by karbytes to be deleted after 11:59PM Pacific Standard Time on 25_APRIL_2025).
+(Note that the following list of files is not all of the files in the "micro directory" section of karbytes named raw_github_files_directory_KARLINA_OBJECT_extension_pack_37 (and in that "micro directory" section's uniquely corresponding GitHub repository (which is named KARLINA_OBJECT_extension_pack_37)). The list of files on this web page includes only files which are not authorized by karbytes to be modified after 11:59PM Pacific Standard Time on 25_APRIL_2025 and which are not authorized by karbytes to be deleted after 11:59PM Pacific Standard Time on 25_APRIL_2025).
 
 START OF FILES...
 
