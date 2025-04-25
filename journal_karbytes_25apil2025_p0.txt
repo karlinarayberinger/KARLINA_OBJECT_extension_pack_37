@@ -1,0 +1,88 @@
+/** 
+ * file: journal_karbytes_25apil2025_p0.txt
+ * type: plain-text 
+ * date: 25_APRIL_2025
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+To Whom It May Concern:
+
+On 25_APRIL_2025 and before 11:59PM Pacific Standard Time, karbytes intends to burn exactly three M_DISCs which are each labeled karbytes25april2025 and which each contain exclusively and exactly the entire collection of digital public web hosted files named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 25_APRIL_2025.
+
+I expect that, from that point in time forward (for an infinitely long period of time), each of the following files of karbytes (in that file's final draft version) will be burned to the aforementioned M_DISCs as of 11:59PM Pacific Standard Time.
+
+START OF FILES...
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/KARBYTES_BLOG_APPS_contents.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/KARBYTES_CODE_CONTINUES.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/KARBYTES_FOR_LIFE_BLOG.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/KARLINA_OBJECT.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/KARLINA_OBJECT_APPS_contents.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/LICENSE
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/RAW_GITHUB_FILES_MACRO_DIRECTORY.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/SOFTWARE_ENGINEERING_PORTFOLIO.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/a_karbytes_content_management_policy.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/chatgpt_generated_image_(mobius_strip_finale)_18april2025.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/chatgpt_karbytes_25april2025_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/github_karbytes_profile_icon.jpeg
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/github_karbytes_profile_pinned_repositories_updated_19april2025.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/github_karbytessupporter_profile_icon.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_18april2025_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_23april2025_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_23april2025_p1.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/journal_karbytes_25april2025_p0.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/karbytes2025_10_contents.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/karbytes_for_life_blog_updates.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/karbytes_social_media_posts.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/karlina_object_updates.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/mdisc_karbytes2025_10.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/preparing_to_make_mdisc_set_on_19april2025.txt
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/print_folder_contents.py
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_37.html
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_a_karbytes_content_management_policy.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_chatgpt_karbytes_24april2025.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_karbytes_social_media_posts_koep37.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_karbytessupporter_development_space_github_repository_raw_file_urls_list_(for_wayback_machine_saves).html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_mdisc_karbytes2025_10.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/unlisted_web_page_preparing_to_make_mdisc_set_on_19april2025.html(*)
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_37/main/update_urls_in_file.py
+
+...END OF FILES
+
+Sincerely,
+karbytes
