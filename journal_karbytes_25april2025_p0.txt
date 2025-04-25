@@ -1,5 +1,5 @@
 /** 
- * file: journal_karbytes_25apil2025_p0.txt
+ * file: journal_karbytes_25april2025_p0.txt
  * type: plain-text 
  * date: 25_APRIL_2025
  * author: karbytes 
