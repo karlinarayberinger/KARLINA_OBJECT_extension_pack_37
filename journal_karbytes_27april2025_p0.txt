@@ -34,7 +34,7 @@ and
 
 comprising the website whose Uniform Resource Locator is
 
-https://karbytesforlifeblog.wordpress.com/box_of_gems/“)
+https://karbytesforlifeblog.wordpress.com/“)
 
 and in pertinence to a specific file within karbytes,
 
