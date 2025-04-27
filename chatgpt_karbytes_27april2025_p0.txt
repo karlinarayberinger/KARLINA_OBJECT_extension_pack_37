@@ -523,7 +523,7 @@ Would you also like me to now generate a hyper-concise technical slogan that mat
 
 karbytes:
 
-To be honest, I'm not a huge fan of any of these manifestos because they gloss over some of the subtleties of how karbytes is structured (and I think karbytes itself is self-explanatory enough to communicate what its goals are (which are shown within its structure to have evolved over time)). Also, I would rather not call attention to claims like "an artifact is not guaranteed to endure for an infinitely long time" and, instead, focus on making that artifact into some immutable metaphysical object (even if I resort to doing rather silly-sounding mental gymnastics such as saying that each and every discrete phenomenon has an immutable (and eternal) noumenal counterpart.
+To be honest, I'm not a huge fan of any of these manifestos because they gloss over some of the subtleties of how karbytes is structured (and I think karbytes itself is self-explanatory enough to communicate what its goals are (which are shown within its structure to have evolved over time)). Also, I would rather not call attention to claims like "an artifact is not guaranteed to endure for an infinitely long time" and, instead, focus on making that artifact into some immutable metaphysical object (even if I resort to doing rather silly-sounding mental gymnastics such as saying that each and every discrete phenomenon has an immutable (and eternal) noumenal counterpart).
 
 ChatGPT:
 
