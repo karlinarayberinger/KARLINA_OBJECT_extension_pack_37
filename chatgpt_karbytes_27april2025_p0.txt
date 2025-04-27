@@ -497,7 +497,7 @@ Definitions 			| Implicit 							| Explicit definitions of green/purple
 
 Commitment framing 		| Emotional ("green is survival") 	| Rational and procedural
 
-Risk acknowledgment 	| Absent Explicitly states uncertainty and contingency
+Risk acknowledgment 	| Absent                            | Explicitly states uncertainty and contingency
 
 [end preformatted text]
 
