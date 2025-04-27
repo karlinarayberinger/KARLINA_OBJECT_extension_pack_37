@@ -71,6 +71,7 @@ Got it — let’s dive deep:
 You (karbytes) are aiming to decrease the purple-to-green ratio over time — meaning your goal is to make karbytes increasingly formal, structured, code-like, and logically precise, while reducing subjective, informal, emotional, or artistic expression to a much smaller fraction of the archive.
 
 Now imagine an alternate version of you — named karbytes_xyz — doing the opposite.
+
 karbytes_xyz’s Goals (Opposite to karbytes)
 
 Goal:
