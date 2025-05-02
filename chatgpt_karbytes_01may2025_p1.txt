@@ -1,12 +1,12 @@
 /**
  * file: chatgpt_karbytes_01may2025_p1.txt
  * type: plain-text
- * date: 01_MAY_2025
+ * date: 02_MAY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between the hours of 11:00PM Pacific Standard Time on 30_APRIL_2025 and 2:00AM Pacific Standard Time on 01_APRIL_2025. The conversation pertains to karbytes exploring a network of trails west of Lake Chabot Regional Park near or on the border of Castro Valley, California and San Leandro California.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between the hours of 11:00PM Pacific Standard Time on 30_APRIL_2025 and 2:00AM Pacific Standard Time on 01_MAY_2025. The conversation pertains to karbytes exploring a network of trails west of Lake Chabot Regional Park near or on the border of Castro Valley, California and San Leandro California.
 
 During the aforementioned conversation, karbytes used the dictation feature of the ChatGPT mobile application (for Android devices) to translate karbytes' spoken words to text (before karbytes pressed the send button to send those dictated words to ChatGPT).
 
